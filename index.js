@@ -2,7 +2,7 @@ const Discord =require ('discord.js');
 const ytdl = require('ytdl-core');
 const bot = new Discord.Client();
 var version = '1.0_alpha'
-const token = 'NjQ0NjI0NzA5NzIzMzU3MTg0.Xc2wQg.zmNZq5iU4SMthTqsfga0-iGO4V0';
+const token = 'jebać państwo izrael';
 bot.on('ready',()=>{
 	console.log(' bot online version: ' + version);
 })
